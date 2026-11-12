@@ -1,0 +1,2 @@
+# Optional interface for running the notebook locally.
+notebook>=7,<8
